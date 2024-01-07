@@ -1,0 +1,43 @@
+.head { 
+ padding: 10px; 
+}
+
+.nav {
+  background-color: black;
+  text-align: center;
+  font-size: 25px;
+  padding: 10px 10px;
+}
+
+.nav a {
+  text-decoration: none;
+  color: white;
+  margin-left: 20px;
+}
+.home h1{
+  font-size: 40px;
+}
+.btn {
+  background-color: rgb(7, 177, 120);
+  color: white;
+  height: 50px;
+  border-radius: 5px;
+  font-size: 15px;
+  border: 1px solid rgb(7, 177, 120);
+}
+
+.btn1 {
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+  font-size: 15px;
+  border: 1px solid black;
+  height: 50px;
+}
+
+.web { 
+  background-color: rgb(217, 238, 225);
+  line-height: 40px;
+  text-indent: 20px;
+}
+ 
